@@ -1,4 +1,4 @@
-Rank	Team		Score	Category
+Rank	Team			Score	Category
 1	HACK4CRAIC		7625	Student
 2	ITBPrime		6925	Student
 3	EricSoc			6925	Non-Student
@@ -17,6 +17,6 @@ Rank	Team		Score	Category
 16	Serious About Hacking	3775	Student
 17	404NameNotFound		3650	Student
 18	KKnD			2775	Student
-19	Crash Override		500		Non-Student
-20	LYIT			0		Student
-21	Optimus Prime		0		Non-Student
+19	Crash Override		500	Non-Student
+20	LYIT			0	Student
+21	Optimus Prime		0	Non-Student
