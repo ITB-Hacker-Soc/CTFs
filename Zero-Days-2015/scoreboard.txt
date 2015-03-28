@@ -2,7 +2,7 @@ Rank	Team		Score	Category
 1	HACK4CRAIC		7625	Student
 2	ITBPrime		6925	Student
 3	EricSoc			6925	Non-Student
-4	CrackSmokingMonkeys		6850	Student
+4	CrackSmokingMonkeys	6850	Student
 5	Team Zero		5425	Student
 6	Hostbusters		5200	Non-Student
 7	ISIS			4900	Student
@@ -15,7 +15,7 @@ Rank	Team		Score	Category
 14	Fresh Meat		3850	Student
 15	Codeninjas		3775	Student
 16	Serious About Hacking	3775	Student
-17	404NameNotFound	3650	Student
+17	404NameNotFound		3650	Student
 18	KKnD			2775	Student
 19	Crash Override		500		Non-Student
 20	LYIT			0		Student
