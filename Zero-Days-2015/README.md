@@ -14,12 +14,12 @@
  
 ## Missing write-ups
 
-* [Crypto/Base Encoded?]
-* [Crypto/Secure Pasword?]
-* [Crypto/Old School]
-* [Crypto/Encrypted Messages]
-* [Crypto/Hashed Access code]
-* [Crypto/Re-using Keys?]
+* [Crypto/Base Encoded?](Crypto/Base_Encoded)
+* [Crypto/Secure Password?](Crypto/Secure_Password)
+* [Crypto/Old School](Crypto/Old_School)
+* [Crypto/Encrypted Messages](Crypto/Encrypted_Messages)
+* [Crypto/Hashed Access Code](Crypto/Hashed_Access_Code)
+* [Crypto/Re-using Keys?](Crypto/Re_using_Keys)
 
 * [Forensics/Security by Obscurity]
 * [Forensics/Packet Decoding]
@@ -58,3 +58,7 @@
 * [Web/Access Error]
 * [Web/Insecure Login]
 * [Web/Need The Databse]
+
+
+
+
