@@ -1,0 +1,44 @@
+Crypto 100 Base Encoded? 15
+Crypto 150 Secure Pasword? 18
+Crypto 200 Old School 11
+Crypto 300 Encrypted Messages 8
+Crypto 350 Hashed Access code 0
+Crypto 400 Re-using Keys? 1
+
+Forensics 100 Security by Obscurity 13 
+Forensics 250 Packet Decoding 15
+Forensics 300 Unsecure Traffic 4
+Forensics 350 Registry 0
+Forensics 400 Radio Static 5
+
+Pot Luck 200 Old Tech 16
+Pot Luck 300 Lock picking 11
+Pot Luck 300 Cache 7
+Pot Luck 350 Treasure Hunt 13
+Pot Luck 350 Code 1
+
+Recon 200 Are they Dead 6
+Recon 200 Confused 16
+Recon 250 Which Film 15
+Recon 350 Looking at 13
+Recon 500 Where is it? 7
+
+Trivia 100 Which Test 19
+Trivia 200 Scary Toy 19
+Trivia 200 Big Numbers 15
+Trivia 300 Irish Hackers 16
+Trivia 350 Dawn of the Dead 17
+Trivia 350 What can you SEE 16
+
+Reversing 100 C++ Reversing 12
+Reversing 200 Keypad Access 13
+Reversing 300 Virus Blocking Network 9
+Reversing 400 Broken Program 3
+Reversing 500 Time for Tea 0
+
+Web 100 Here Somewhere 18
+Web 150 No Zombies Allowed 9
+Web 200 Free Pizza 19
+Web 250 Access Error 5
+Web 300 Insecure Login 6
+Web 500 Need The Databse 0
