@@ -22,7 +22,7 @@ This coresponds to the repeating 'l' at the end of the word small which we're to
 
 A quick check and we can see that 'l' is the 12th letter in the english alphabet.
 
-Continuing with this logic we can see that s is the 19th chatecerter in the alphabet, m = 13 and a = 1.
+Continuing with this logic we can see that 's' is the 19th character in the alphabet, m = 13 and a = 1.
 
 So each letter has been replaced with a number representing its position in the alphabet. A=1, b=2, c=3 etc.
 
