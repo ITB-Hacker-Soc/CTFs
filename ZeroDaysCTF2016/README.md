@@ -11,7 +11,7 @@
  
 ## Missing write-ups
 ### Crypto
-* [A - Small, Far away!](Crypto/A-faraway.txt)
+* [A - Small, Far away!](Crypto/A-faraway.md)
 * [B - Give it A Bash!](Crypto/B-abash.txt)
 * [C - Paradise Lost?](Crypto/C-paradise.txt)
 * [D - Road Safety Authority](Crypto/D-rsa.txt)
