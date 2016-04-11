@@ -1,4 +1,4 @@
-# Zero Days CTF write-ups
+# Zero Days CTF 2015 write-ups
 
 * <http://www.zerodays.ie/>
 * [Scoreboard](scoreboard.txt)
