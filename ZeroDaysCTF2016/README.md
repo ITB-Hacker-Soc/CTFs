@@ -28,45 +28,45 @@
 * [E - Goodnight Dougal](Exploit/E - Goodnight Dougal)
 
 ### Forensics
-* [Forensics/A - Security by Obscurity](Forensics/Security_by_Obscurity)
-* [Forensics/B - Packet Decoding](Forensics/Packet_Decoding)
-* [Forensics/C - Unsecure Traffic](Forensics/Unsecure_Traffic)
-* [Forensics/D - Registry](Forensics/Registry)
-* [Forensics/E - Radio Static](Forensics/Radio_Static)
+* [A - Look deeper](Forensics/A - Look deeper)
+* [B - It's a Montage!](Forensics/B - It's a Montage)
+* [C - Strange recording](Forensics/Strange recording)
+* [D - Evidence against Crilly!](Forensics/Evidence against Crilly!)
+* [E - USB?](Forensics/USB)
 
 ### PotLuck
-* [PotLuck/A - Old Tech](PotLuck/Old_Tech)
-* [PotLuck/A - Lock Picking](PotLuck/Lock_Picking)
-* [PotLuck/B - Cache](PotLuck/Cache)
-* [PotLuck/C - Treasure Hunt](PotLuck/Treasure_Hunt)
-* [PotLuck/D - Code](PotLuck/Code)
+* [A - Lock Picking!](PotLuck/A - Lock Picking!)
+* [B - Recreate The Scene](PotLuck/B - Recreate The Scene)
+* [C - Where in the World?](PotLuck/C - Where in the World?)
+* [D - Treasure Hunt](PotLuck/D - Treasure Hunt)
+* [E - Crossword Challenge](PotLuck/E - Crossword Challenge)
  
 ### Recon
-* [Recon/A - Are they Dead](Recon/Are_they_Dead)
-* [Recon/B - Confused](Recon/Confused)
-* [Recon/C - Which Film?](Recon/Which_Film)
-* [Recon/D - Looking at](Recon/Looking_at)
-* [Recon/E - Where is it?](Recon/Where_is_it)
+* [A - Nothing to see here!](Recon/A - Nothing to see here!)
+* [B - What's missing?](Recon/B - What's missing?)
+* [C - Ted Fest](Recon/C - Ted Fest)
+* [D - Where is this?](Recon/D - Where is this?)
+* [E - Who are they?](Recon/E - Who are they?)
 
 ### Trivia
-* [Trivia/A - Which Test](Trivia/Which_Test)
-* [Trivia/B - Scary Toy](Trivia/Scary_Toy)
-* [Trivia/C - Big Numbers](Trivia/Big_Numbers)
-* [Trivia/D - Irish Hackers](Trivia/Irish_Hackers)
-* [Trivia/E - Dawn of the Dead](Trivia/Dawn_of_the_Dead)
+* [A - How Many](Trivia/A - How Many)
+* [B - Muliple Apperances](Trivia/B - Muliple Apperances)
+* [C - Let's play a Game](Trivia/C - Let's play a Game)
+* [D - Registration plate](Trivia/D - Registration plate)
+* [E - Don't tell me](Trivia/E - Don't tell me)
 
 ### Coding
-* [Coding/A - Cpp Reversing](Reversing/Cpp_Reversing)
-* [Coding/B - Keypad Access](Reversing/Keypad_Access)
-* [Coding/C - Virus Blocking Network](Reversing/Virus_Blocking_Network)
-* [Coding/D - Broken Program](Reversing/Broken_Program)
-* [Coding/E - Time for Tea](Reversing/Time_for_Tea)
+* [A - Cpp Reversing](Reversing/A - Cpp Reversing)
+* [B - Guess My Number](Reversing/B - Guess My Number)
+* [C - So So Sorry](Reversing/C - So So Sorry)
+* [D - Big? Numbers](Reversing/D - Big? Numbers)
+* [E - Lights Out](Reversing/E - Lights Out)
 
 ### Web
-* [Web/A - Here Somewhere](Web/Here_Somewhere)
-* [Web/B - No Zombies Allowed](Web/No_Zombies_Allowed)
-* [Web/C - Free Pizza](Web/Free_Pizza)
-* [Web/D - Access Error](Web/Access_Error)
-* [Web/E - Insecure Login](Web/Insecure_Login)
+* [A - Client Side, tut tut tut!](Web/A - Client Side, tut tut tut)
+* [B - Free Pizza](Web/B - Free Pizza)
+* [C - Priest Chat](Web/C - Priest Chat)
+* [D - Ecumenical Matters](Web/D - Ecumenical Matters)
+* [E - Tea Lovers Website](Web/E - Tea Lovers Website)
 
 
