@@ -11,25 +11,25 @@
  
 ## Missing write-ups
 ### Crypto
-* [A - Small, Far away!](Crypto/A-faraway.md)
-* [B - Give it A Bash!](Crypto/B-abash.txt)
-* [C - Paradise Lost?](Crypto/C-paradise.txt)
-* [D - Road Safety Authority](Crypto/D-rsa.txt)
-* [E - Crack the Code](Crypto/E-crackthecode.txt)
+* [A - Small, Far away!](crypto/A-faraway.md)
+* [B - Give it A Bash!](crypto/B-abash.txt)
+* [C - Paradise Lost?](crypto/C-paradise.txt)
+* [D - Road Safety Authority](crypto/D-rsa.txt)
+* [E - Crack the Code](crypto/E-crackthecode.txt)
 
 ### Exploit
-* [A - All Shall Enter](Exploit/A-allshallenter.txt)
-* [B - Grant Unto Him Eternal Rest](Exploit/B-grant.txt)
-* [C - In the name of father, Son , Holy ghost, admin](Exploit/C-admin.txt)
-* [D - He does good mass!](Exploit/D-mass.txt!)
-* [E - Goodnight Dougal](Exploit/E-goodnight.txt)
+* [A - All Shall Enter](exploit/A-allshallenter.txt)
+* [B - Grant Unto Him Eternal Rest](exploit/B-grant.txt)
+* [C - In the name of father, Son , Holy ghost, admin](exploit/C-admin.txt)
+* [D - He does good mass!](exploit/D-mass.txt!)
+* [E - Goodnight Dougal](exploit/E-goodnight.txt)
 
 ### Forensics
-* [A - Look deeper](Forensics/A-lookdeeper.txt)
-* [B - It's a Montage!](Forensics/B-montage.txt)
-* [C - Strange recording](Forensics/C-recording.txt)
-* [D - Evidence against Crilly!](Forensics/D-evidence.txt)
-* [E - USB?](Forensics/E-usb.txt)
+* [A - Look deeper](forensics/A-lookdeeper.txt)
+* [B - It's a Montage!](forensics/B-montage.txt)
+* [C - Strange recording](forensics/C-recording.txt)
+* [D - Evidence against Crilly!](forensics/D-evidence.txt)
+* [E - USB?](forensics/E-usb.txt)
 
 ### PotLuck
 * [A - Lock Picking!](PotLuck/A-picking.txt)
