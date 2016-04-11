@@ -1,4 +1,5 @@
 Category: Student Team
+----------------------------------------
 Rank  Team			    Score
 01    Hack4Craic                    2490
 02    CrackSmokingMonkeys           2190
@@ -32,6 +33,7 @@ Rank  Team			    Score
 
   
 Category: Non-Student Team
+----------------------------------------
 Rank  Team			    Score
 01    Popret                        4918
 02    Nutcracker                    2805
