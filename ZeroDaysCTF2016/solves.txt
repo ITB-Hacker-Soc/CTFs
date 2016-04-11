@@ -1,0 +1,58 @@
+
+
+## Missing write-ups
+### Crypto
+* [A - Small, Far away!](Crypto/A-faraway.txt)
+* [B - Give it A Bash!](Crypto/B-abash.txt)
+* [C - Paradise Lost?](Crypto/C-paradise.txt)
+* [D - Road Safety Authority](Crypto/D-rsa.txt)
+* [E - Crack the Code](Crypto/E-crackthecode.txt)
+
+### Exploit
+* [A - All Shall Enter](Exploit/A-allshallenter.txt)
+* [B - Grant Unto Him Eternal Rest](Exploit/B-grant.txt)
+* [C - In the name of father, Son , Holy ghost, admin](Exploit/C-admin.txt)
+* [D - He does good mass!](Exploit/D-mass.txt!)
+* [E - Goodnight Dougal](Exploit/E-goodnight.txt)
+
+### Forensics
+* [A - Look deeper](Forensics/A-lookdeeper.txt)
+* [B - It's a Montage!](Forensics/B-montage.txt)
+* [C - Strange recording](Forensics/C-recording.txt)
+* [D - Evidence against Crilly!](Forensics/D-evidence.txt)
+* [E - USB?](Forensics/E-usb.txt)
+
+### PotLuck
+* [A - Lock Picking!](PotLuck/A-picking.txt)
+* [B - Recreate The Scene](PotLuck/B-scene.txt)
+* [C - Where in the World?](PotLuck/C-whereintheworld.txt)
+* [D - Treasure Hunt](PotLuck/D-treasure.txt)
+* [E - Crossword Challenge](PotLuck/E-crossword.txt)
+ 
+### Recon
+* [A - Nothing to see here!](Recon/A-nothingtosee.txt)
+* [B - What's missing?](Recon/B-whatsmissing.txt)
+* [C - Ted Fest](Recon/C-tedfest.txt)
+* [D - Where is this?](Recon/D-whereisthis.txt)
+* [E - Who are they?](Recon/E-whoarethey.txt)
+
+### Trivia
+* [A - How Many](Trivia/A-howmany.txt)
+* [B - Muliple Apperances](Trivia/B-apperances.txt)
+* [C - Let's play a Game](Trivia/C-playagame.txt)
+* [D - Registration plate](Trivia/D-registrationplate.txt)
+* [E - Don't tell me](Trivia/E-donttellme.txt)
+
+### Coding
+* [A - Cpp Reversing](Reversing/A-cppreversing.txt)
+* [B - Guess My Number](Reversing/B-guessmynumber.txt)
+* [C - So So Sorry](Reversing/C-sosorry.txt)
+* [D - Big? Numbers](Reversing/D-bugnumbers.txt)
+* [E - Lights Out](Reversing/E-lightsout.txt)
+
+### Web
+* [A - Client Side, tut tut tut!](Web/A-clientside.txt)
+* [B - Free Pizza](Web/B-pizza.txt)
+* [C - Priest Chat](Web/C-priestchat.txt)
+* [D - Ecumenical Matters](Web/D-ecumenicalmatters.txt)
+* [E - Tea Lovers Website](Web/E-tealovers.txt)
