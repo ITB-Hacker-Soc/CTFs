@@ -14,18 +14,18 @@
  
 ## Missing write-ups
 ### Crypto
-* [Crypto/A - Small, Far away!](A - Small, Far away!)
-* [Crypto/B - Give it A Bash!](B - Give it A Bash!)
-* [Crypto/C - Paradise Lost?](C - Paradise Lost?)
-* [Crypto/D - Road Safety Authority](D - Road Safety Authority)
-* [Crypto/E - Crack the Code](E - Crack the Code)
+* [A - Small, Far away!](Crypto/A - Small, Far away!)
+* [B - Give it A Bash!](Crypto/B - Give it A Bash!)
+* [C - Paradise Lost?](Crypto/C - Paradise Lost?)
+* [D - Road Safety Authority](Crypto/D - Road Safety Authority)
+* [E - Crack the Code](Crypto/E - Crack the Code)
 
 ### Exploit
-* [Exploit/A - All Shall Enter](A - All Shall Enter)
-* [Exploit/B - Grant Unto Him Eternal Rest](B - Grant Unto Him Eternal Rest)
-* [Exploit/C - In the name of father, Son , Holy ghost, admin](C - In the name of father, Son , Holy ghost, admin)
-* [Exploit/D - He does good mass!](D - He does good mass!)
-* [Exploit/E - Goodnight Dougal](E - Goodnight Dougal)
+* [A - All Shall Enter](Exploit/A - All Shall Enter)
+* [B - Grant Unto Him Eternal Rest](Exploit/B - Grant Unto Him Eternal Rest)
+* [C - In the name of father, Son , Holy ghost, admin](Exploit/C - In the name of father, Son , Holy ghost, admin)
+* [D - He does good mass!](Exploit/D - He does good mass!)
+* [E - Goodnight Dougal](Exploit/E - Goodnight Dougal)
 
 ### Forensics
 * [Forensics/A - Security by Obscurity](Forensics/Security_by_Obscurity)
