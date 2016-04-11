@@ -1,0 +1,47 @@
+Category: Student Team
+Rank	Team			                    Score
+01    Hack4Craic                    2490
+02    CrackSmokingMonkeys           2190
+03    Pat Mustards Bastards         1518
+04    Firstplace                    1503
+05    Chair Curtains Floor Gobshite 1495
+06    ITEEBEE                       1355
+07    FABK                          1191
+08    The Jack hack its             1190
+09    Super Crew                    1145
+10    Compu-Global-Hyper-Mega-Net   1142
+11    ByteShredders                 1113
+12    MidgetMen                     1073
+13    Black Lung                    1059
+14    518ers                        1053
+15    TeamZero                      1026
+16    Our New Robot Overlords       0998
+17    Heroes 1s and 0s              0967
+18    The junior Certs              0959
+19    Gospal of Gosperism           0936
+20    The Spider Babies             0902
+21    CosMan                        0865
+22    Bishop Brennans Alter Boys    0827
+23    Teletubbies                   0806
+24    The Arse Biscuits             0766
+25    Father Stack Overflow         0759
+26    My Lovely Trojan Horse        0759
+27    Kippo                         0750
+28    I Hacked JR                   0683
+29    Rana                          0550	
+
+  
+Category: Non-Student Team
+Rank	Team			                    Score
+01    Popret                        4918
+02    Nutcracker                    2805
+03    0d_n00bs                      2306
+04    NOWASP                        2074
+05    T3ngu Team                    1757
+06    Hostbusters                   1171
+07    ENIGMA                        0928
+08    The Remedies                  0880
+09    The Gobshite Gang             0823
+10    The passion of St Tibulus     0678
+11    MeshNetwork                   0550
+12    Abraham Linksys               0000	
