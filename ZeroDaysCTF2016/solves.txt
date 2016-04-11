@@ -1,58 +1,55 @@
+# Crypto
+12 : A - Small, Far away!
+18 : B - Give it A Bash!
+26 : C - Paradise Lost?
+03 : D - Road Safety Authority
+03 : E - Crack the Code
 
+# Exploit
+03 : A - All Shall Enter
+02 : B - Grant Unto Him Eternal Rest
+05 : C - In the name of father, Son , Holy ghost, admin
+02 : D - He does good mass!
+00 : E - Goodnight Dougal
 
-## Missing write-ups
-### Crypto
-* [A - Small, Far away!](Crypto/A-faraway.txt)
-* [B - Give it A Bash!](Crypto/B-abash.txt)
-* [C - Paradise Lost?](Crypto/C-paradise.txt)
-* [D - Road Safety Authority](Crypto/D-rsa.txt)
-* [E - Crack the Code](Crypto/E-crackthecode.txt)
+# Forensics
+16 : A - Look deeper
+17 : B - It's a Montage!
+37 : C - Strange recording
+06 : D - Evidence against Crilly!
+02 : E - USB?
 
-### Exploit
-* [A - All Shall Enter](Exploit/A-allshallenter.txt)
-* [B - Grant Unto Him Eternal Rest](Exploit/B-grant.txt)
-* [C - In the name of father, Son , Holy ghost, admin](Exploit/C-admin.txt)
-* [D - He does good mass!](Exploit/D-mass.txt!)
-* [E - Goodnight Dougal](Exploit/E-goodnight.txt)
-
-### Forensics
-* [A - Look deeper](Forensics/A-lookdeeper.txt)
-* [B - It's a Montage!](Forensics/B-montage.txt)
-* [C - Strange recording](Forensics/C-recording.txt)
-* [D - Evidence against Crilly!](Forensics/D-evidence.txt)
-* [E - USB?](Forensics/E-usb.txt)
-
-### PotLuck
-* [A - Lock Picking!](PotLuck/A-picking.txt)
-* [B - Recreate The Scene](PotLuck/B-scene.txt)
-* [C - Where in the World?](PotLuck/C-whereintheworld.txt)
-* [D - Treasure Hunt](PotLuck/D-treasure.txt)
-* [E - Crossword Challenge](PotLuck/E-crossword.txt)
+# PotLuck
+23 : A - Lock Picking! (Opened 1 or more locks)
+11 : B - Recreate The Scene
+35 : C - Where in the World?
+02 : D - Treasure Hunt
+00 : E - Crossword Challenge
  
-### Recon
-* [A - Nothing to see here!](Recon/A-nothingtosee.txt)
-* [B - What's missing?](Recon/B-whatsmissing.txt)
-* [C - Ted Fest](Recon/C-tedfest.txt)
-* [D - Where is this?](Recon/D-whereisthis.txt)
-* [E - Who are they?](Recon/E-whoarethey.txt)
+# Recon
+28 : A - Nothing to see here!
+35 : B - What's missing?
+35 : C - Ted Fest
+34 : D - Where is this?
+39 : E - Who are they?
 
-### Trivia
-* [A - How Many](Trivia/A-howmany.txt)
-* [B - Muliple Apperances](Trivia/B-apperances.txt)
-* [C - Let's play a Game](Trivia/C-playagame.txt)
-* [D - Registration plate](Trivia/D-registrationplate.txt)
-* [E - Don't tell me](Trivia/E-donttellme.txt)
+# Trivia
+39 : A - How Many
+36 : B - Muliple Apperances
+15 : C - Let's play a Game
+40 : D - Registration plate
+40 : E - Don't tell me
 
-### Coding
-* [A - Cpp Reversing](Reversing/A-cppreversing.txt)
-* [B - Guess My Number](Reversing/B-guessmynumber.txt)
-* [C - So So Sorry](Reversing/C-sosorry.txt)
-* [D - Big? Numbers](Reversing/D-bugnumbers.txt)
-* [E - Lights Out](Reversing/E-lightsout.txt)
+# Coding
+34 : A - Cpp Reversing
+34 : B - Guess My Number
+13 : C - So So Sorry
+01 : D - Big? Numbers
+05 : E - Lights Out
 
-### Web
-* [A - Client Side, tut tut tut!](Web/A-clientside.txt)
-* [B - Free Pizza](Web/B-pizza.txt)
-* [C - Priest Chat](Web/C-priestchat.txt)
-* [D - Ecumenical Matters](Web/D-ecumenicalmatters.txt)
-* [E - Tea Lovers Website](Web/E-tealovers.txt)
+# Web
+34 : A - Client Side, tut tut tut!
+37 : B - Free Pizza
+09 : C - Priest Chat
+05 : D - Ecumenical Matters
+06 : E - Tea Lovers Website
