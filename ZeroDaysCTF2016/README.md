@@ -13,22 +13,25 @@
 * none yet
  
 ## Missing write-ups
-
+### Crypto
 * [Crypto/A - Small, Far away!](Crypto/A - Small, Far away!)
 * [Crypto/B - Give it A Bash!](Crypto/B - Give it A Bash!)
 * [Crypto/C - Paradise Lost?](Crypto/C - Paradise Lost?)
 * [Crypto/D - Road Safety Authority](Crypto/D - Road Safety Authority)
 * [Crypto/E - Crack the Code](Crypto/E - Crack the Code)
+### Exploit
+* [Exploit/A - All Shall Enter](Exploit/Security_by_Obscurity)
+* [Exploit/B - Packet Decoding](Exploit/Packet_Decoding)
+* [Exploit/C - Unsecure Traffic](Exploit/Unsecure_Traffic)
+* [Exploit/D - Registry](Exploit/Registry)
+* [Exploit/E - Radio Static](Exploit/Radio_Static)
+### Exploit
 * [Forensics/A - Security by Obscurity](Forensics/Security_by_Obscurity)
 * [Forensics/B - Packet Decoding](Forensics/Packet_Decoding)
 * [Forensics/C - Unsecure Traffic](Forensics/Unsecure_Traffic)
 * [Forensics/D - Registry](Forensics/Registry)
 * [Forensics/E - Radio Static](Forensics/Radio_Static)
-* [Exploit/A - Security by Obscurity](Exploit/Security_by_Obscurity)
-* [Exploit/B - Packet Decoding](Exploit/Packet_Decoding)
-* [Exploit/C - Unsecure Traffic](Exploit/Unsecure_Traffic)
-* [Exploit/D - Registry](Exploit/Registry)
-* [Exploit/E - Radio Static](Exploit/Radio_Static)
+
 * [PotLuck/A - Old Tech](PotLuck/Old_Tech)
 * [PotLuck/A - Lock Picking](PotLuck/Lock_Picking)
 * [PotLuck/B - Cache](PotLuck/Cache)
