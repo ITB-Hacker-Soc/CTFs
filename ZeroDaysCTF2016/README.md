@@ -6,64 +6,64 @@
 
 ## Completed write-ups
 
-* none yet
+### Crypto
+* [A - Small, Far away!](crypto/A-faraway.md)
 
  
 ## Missing write-ups
 ### Crypto
-* [A - Small, Far away!](crypto/A-faraway.md)
-* [B - Give it A Bash!](crypto/B-abash.txt)
-* [C - Paradise Lost?](crypto/C-paradise.txt)
-* [D - Road Safety Authority](crypto/D-rsa.txt)
-* [E - Crack the Code](crypto/E-crackthecode.txt)
+* [B - Give it A Bash!](crypto/B-abash.md)
+* [C - Paradise Lost?](crypto/C-paradise.md)
+* [D - Road Safety Authority](crypto/D-rsa.md)
+* [E - Crack the Code](crypto/E-crackthecode.md)
 
 ### Exploit
-* [A - All Shall Enter](exploit/A-allshallenter.txt)
-* [B - Grant Unto Him Eternal Rest](exploit/B-grant.txt)
-* [C - In the name of father, Son , Holy ghost, admin](exploit/C-admin.txt)
-* [D - He does good mass!](exploit/D-mass.txt!)
-* [E - Goodnight Dougal](exploit/E-goodnight.txt)
+* [A - All Shall Enter](exploit/A-allshallenter.md)
+* [B - Grant Unto Him Eternal Rest](exploit/B-grant.md)
+* [C - In the name of father, Son , Holy ghost, admin](exploit/C-admin.md)
+* [D - He does good mass!](exploit/D-mass.md)
+* [E - Goodnight Dougal](exploit/E-goodnight.md)
 
 ### Forensics
-* [A - Look deeper](forensics/A-lookdeeper.txt)
-* [B - It's a Montage!](forensics/B-montage.txt)
-* [C - Strange recording](forensics/C-recording.txt)
-* [D - Evidence against Crilly!](forensics/D-evidence.txt)
-* [E - USB?](forensics/E-usb.txt)
+* [A - Look deeper](forensics/A-lookdeeper.md)
+* [B - It's a Montage!](forensics/B-montage.md)
+* [C - Strange recording](forensics/C-recording.md)
+* [D - Evidence against Crilly!](forensics/D-evidence.md)
+* [E - USB?](forensics/E-usb.md)
 
 ### PotLuck
-* [A - Lock Picking!](PotLuck/A-picking.txt)
-* [B - Recreate The Scene](PotLuck/B-scene.txt)
-* [C - Where in the World?](PotLuck/C-whereintheworld.txt)
-* [D - Treasure Hunt](PotLuck/D-treasure.txt)
-* [E - Crossword Challenge](PotLuck/E-crossword.txt)
+* [A - Lock Picking!](potLuck/A-picking.md)
+* [B - Recreate The Scene](potLuck/B-scene.md)
+* [C - Where in the World?](potLuck/C-whereintheworld.md)
+* [D - Treasure Hunt](potLuck/D-treasure.md)
+* [E - Crossword Challenge](potLuck/E-crossword.md)
  
 ### Recon
-* [A - Nothing to see here!](Recon/A-nothingtosee.txt)
-* [B - What's missing?](Recon/B-whatsmissing.txt)
-* [C - Ted Fest](Recon/C-tedfest.txt)
-* [D - Where is this?](Recon/D-whereisthis.txt)
-* [E - Who are they?](Recon/E-whoarethey.txt)
+* [A - Nothing to see here!](recon/A-nothingtosee.md)
+* [B - What's missing?](recon/B-whatsmissing.md)
+* [C - Ted Fest](recon/C-tedfest.md)
+* [D - Where is this?](recon/D-whereisthis.md)
+* [E - Who are they?](recon/E-whoarethey.md)
 
 ### Trivia
-* [A - How Many](Trivia/A-howmany.txt)
-* [B - Muliple Apperances](Trivia/B-apperances.txt)
-* [C - Let's play a Game](Trivia/C-playagame.txt)
-* [D - Registration plate](Trivia/D-registrationplate.txt)
-* [E - Don't tell me](Trivia/E-donttellme.txt)
+* [A - How Many](trivia/A-howmany.md)
+* [B - Muliple Apperances](trivia/B-apperances.md)
+* [C - Let's play a Game](trivia/C-playagame.md)
+* [D - Registration plate](trivia/D-registrationplate.md)
+* [E - Don't tell me](trivia/E-donttellme.md)
 
 ### Coding
-* [A - Cpp Reversing](Reversing/A-cppreversing.txt)
-* [B - Guess My Number](Reversing/B-guessmynumber.txt)
-* [C - So So Sorry](Reversing/C-sosorry.txt)
-* [D - Big? Numbers](Reversing/D-bugnumbers.txt)
-* [E - Lights Out](Reversing/E-lightsout.txt)
+* [A - Cpp Reversing](reversing/A-cppreversing.md)
+* [B - Guess My Number](reversing/B-guessmynumber.md)
+* [C - So So Sorry](reversing/C-sosorry.md)
+* [D - Big? Numbers](reversing/D-bugnumbers.md)
+* [E - Lights Out](reversing/E-lightsout.md)
 
 ### Web
-* [A - Client Side, tut tut tut!](Web/A-clientside.txt)
-* [B - Free Pizza](Web/B-pizza.txt)
-* [C - Priest Chat](Web/C-priestchat.txt)
-* [D - Ecumenical Matters](Web/D-ecumenicalmatters.txt)
-* [E - Tea Lovers Website](Web/E-tealovers.txt)
+* [A - Client Side, tut tut tut!](web/A-clientside.md)
+* [B - Free Pizza](web/B-pizza.md)
+* [C - Priest Chat](web/C-priestchat.md)
+* [D - Ecumenical Matters](web/D-ecumenicalmatters.md)
+* [E - Tea Lovers Website](web/E-tealovers.md)
 
 
