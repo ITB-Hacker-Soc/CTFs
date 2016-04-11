@@ -14,11 +14,11 @@
  
 ## Missing write-ups
 
-* [Crypto/A - Base Encoded?](Crypto/Base_Encoded)
-* [Crypto/B - Secure Password?](Crypto/Secure_Password)
-* [Crypto/C - Old School](Crypto/Old_School)
-* [Crypto/D - Encrypted Messages](Crypto/Encrypted_Messages)
-* [Crypto/E - Hashed Access Code](Crypto/Hashed_Access_Code)
+* [Crypto/A - Small, Far away!](Crypto/A - Small, Far away!)
+* [Crypto/B - Give it A Bash!](Crypto/B - Give it A Bash!)
+* [Crypto/C - Paradise Lost?](Crypto/C - Paradise Lost?)
+* [Crypto/D - Road Safety Authority](Crypto/D - Road Safety Authority)
+* [Crypto/E - Crack the Code](Crypto/E - Crack the Code)
 * [Forensics/A - Security by Obscurity](Forensics/Security_by_Obscurity)
 * [Forensics/B - Packet Decoding](Forensics/Packet_Decoding)
 * [Forensics/C - Unsecure Traffic](Forensics/Unsecure_Traffic)
